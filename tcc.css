@@ -160,7 +160,7 @@ p {
 /* Responsive */
 @media (max-width: 768px) {
     .carousel-item {
-        flex: 0 0 150px;
+        flex: 0 0 1500px;
     }
 
     .carousel {
